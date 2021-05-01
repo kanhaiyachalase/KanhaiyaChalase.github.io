@@ -1,0 +1,61 @@
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 3rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -10px;
+    margin-left: 15px;
+    margin-top: 9%;
+}
+
+img{
+    border-radius: 17%;
+    box-shadow: 2px silver;
+}
+
+.featurette-heading{
+    margin-top: 5%;
+}
+
+.h1, h1 {
+    font-size: 3rem;
+}
+
+.navbar-brand {
+    /* display: inline-block; */
+    padding-top: 1.3125rem;
+    padding-bottom: 1.3125rem;
+    margin-right: 2rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.links{
+    font-size: 204%;
+    font-family: 'Courier New', Courier, monospace;
+    margin: -23px 262px;
+    padding: 13px 47px;
+}
+#git{
+    color:hsl(36deg 92% 50%);
+
+}
+#dribbble{
+ color: springgreen;
+}
+#so{
+ color: teal;
+}
+#lki{
+ color: yellow;
+}
